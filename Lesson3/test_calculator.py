@@ -1,5 +1,5 @@
 import unittest
-from py3 import sum_two_variables
+from calculate import sum_two_variables
 
 class Testcalculator(unittest.TestCase):
 

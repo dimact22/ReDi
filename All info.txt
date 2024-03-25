@@ -1,3 +1,5 @@
 python -m unittest discover - run all the test from all files
 python -m unittest namefile.nameclass.methodname - we can run one method from one class and one class!!!!
 coverage -m report -m - will show in procent test coverage!!!
+ValueErorr - The best type of erorr for special erorr!!! or TypeErorr!!!!
+
